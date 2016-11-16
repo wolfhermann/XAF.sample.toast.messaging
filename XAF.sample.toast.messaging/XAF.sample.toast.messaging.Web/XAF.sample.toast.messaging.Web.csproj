@@ -141,7 +141,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="css\dx.common.css" />
     <Content Include="css\dx.light.css" />
     <Content Include="Default.aspx" />
     <Content Include="Error.aspx" />
